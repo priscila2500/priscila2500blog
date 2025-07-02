@@ -1,10 +1,11 @@
 ###########
 # site.title
 
-title: jekyllBear
-description: a minimal, text focused blog theme
+title: priscila2500
+description:   Health researcher, data wrangler, immigrant, productivity nerd.
+  Writing about time, code, Canada, and the small stuff.
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "https://knhash.in/jekyllBear" # the base hostname & protocol for your site
+url: "https://priscila2500.github.io/priscila2500blog/" # the base hostname & protocol for your site
 # host: 0.0.0.0
 
 

@@ -1,0 +1,4 @@
+---
+slug: rant
+name: rant
+---

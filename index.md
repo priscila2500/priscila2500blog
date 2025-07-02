@@ -4,21 +4,19 @@ title: Hello
 ---
 
 
-## An easy to use, minimal, text focused Jekyll theme
+## Hello!
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+**I am a healthcare researcher from Mexico living in Toronto, ON, Canada.**
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+And now I have a blog! This blog is mostly meant to aid my conversations with friends and family. At times I will start to go on and on about a topic to cut myself short because well, now I have the good sense to know that *the listening party might not be interested*. And then I'll think, as a follow-up on this topic,maybe I could *give them a link?* 
 
-**Stop worrying about the style, focus on your writing.**
+[LinkedIn](https://www.linkedin.com/in/priscila-pequeno-16b0a773/)
 
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
+[Github](https://github.com/priscila2500)
 
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
+
+**Credits**
+
+This site was build with jekyll and GitHub Pages and uses the [jekyllBear theme](https://knhash.in/jekyllBear) by [knhash](https://knhash.in)
+
+
