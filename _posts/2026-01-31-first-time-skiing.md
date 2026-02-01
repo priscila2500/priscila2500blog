@@ -1,4 +1,16 @@
-# First time sking 
+---
+layout: post
+title: First time skiing
+subtitle: 
+date: 2026-01-31 18:30:00 +0000
+tags:
+- general
+
+---
+
+
+
+# First time skiing 
 
 
 
