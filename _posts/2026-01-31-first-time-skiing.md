@@ -10,10 +10,6 @@ tags:
 
 
 
-# First time skiing 
-
-
-
 I went to ski for the first time with High Park Ski Club (HPSC) on Jan 17, 2026. It was interesting because it was a day full of first time experiences.
 
 Why am I skiing now? Well, even though I've been living in Toronto, ON, for about 14 years I've never tried it before. I figured that if I'm going to commit to living in Canada in the long term it would be best to pick a winter sport, something to do that would take me outdoors during the long and dark winter months. 
